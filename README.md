@@ -3,7 +3,7 @@
 In this project, we first created a mathematical model to best represent the data given to us then added control mechanism terms to the model to improve the fit.
 
 ## Requirements:
-To run this are: Jupyter, NumPy, SciPy.
+To run this are: Jupyter, NumPy, SciPy, Pandas, Matplotlib, lmfit
 
 ## 1. Epidemic Model without any control mechanisms:
 
